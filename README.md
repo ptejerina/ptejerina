@@ -1,4 +1,4 @@
-## Hi, I am Pablo Tejerina Pérez
+## Hello, I am Pablo Tejerina Pérez
 
 PhD Researcher in Cosmology & Machine Learning
 Universitat de Barcelona · ICCUB
