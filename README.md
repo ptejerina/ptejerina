@@ -1,6 +1,7 @@
 ## Hello, I am Pablo Tejerina Pérez
 
 PhD Researcher in Machine Learning for Physics & Early Universe Cosmology
+
 Universitat de Barcelona · ICCUB
 
 My research lies at the intersection of scientific machine learning and different aspects of theoretical physics. I work on Physics-Informed Neural Networks (PINNs) for direct and inverse problems and for the analysis of differential equations more generally, including multi-IC/BC and multi-parameter settings — studying both their applications and the structure and representation of the networks themselves. 
